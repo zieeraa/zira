@@ -1,0 +1,7 @@
+name = "zira-site"
+type = "javascript"
+compatibility_date = "2025-05-16"
+
+[site]
+bucket = "./dist"
+entry-point = "."
