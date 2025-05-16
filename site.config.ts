@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Ainur Nadzirahmc',
+  name: 'Ainur Nadzirah',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Travis Fischer',
 
